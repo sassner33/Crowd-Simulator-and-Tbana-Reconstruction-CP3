@@ -33994,6 +33994,37 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0.43
   m_ShadowAngle: 0
+--- !u!1 &543522784
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 543522785}
+  m_Layer: 0
+  m_Name: ActorSpawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &543522785
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 543522784}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: -38.226, y: 0.1, z: -4.049}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!1 &543665864
 GameObject:
   m_ObjectHideFlags: 0
@@ -36528,6 +36559,10 @@ MonoBehaviour:
   Bins: {fileID: 123095369}
   VendingMachines: {fileID: 868894654}
   Trains: {fileID: 651647151}
+  actorSpawnPoint: {fileID: 543522785}
+  ActorChildPrefab: {fileID: 5939052624003412562, guid: f6bef5d2c00e70444a5009dd0afacd75, type: 3}
+  ActorAdultPrefab: {fileID: 7044834260039110576, guid: 3da88c50c351b5e41a6d5648d1dca9f7, type: 3}
+  CaregiverPrefab: {fileID: 7425273109287067555, guid: 1cf3f5cf42358b2418dcbee2b19d6a61, type: 3}
   RatingMenu: {fileID: 2008220612}
   FreeMenu: {fileID: 121757684}
   crowdToggle: {fileID: 593840563}
@@ -39190,6 +39225,10 @@ PrefabInstance:
       propertyPath: shirtColorPrefab
       value: 
       objectReference: {fileID: 114000012423741106, guid: 62fcfdbb183bc094c9e69e041b60eaaf, type: 3}
+    - target: {fileID: 114000011453258514, guid: ead6e50105b8a264ab4274d310eab2f7, type: 3}
+      propertyPath: maxNumberOfAgents
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 114000011453258514, guid: ead6e50105b8a264ab4274d310eab2f7, type: 3}
       propertyPath: agentAvoidanceRadius
       value: 0.5
@@ -125930,3 +125969,4 @@ SceneRoots:
   - {fileID: 161009490}
   - {fileID: 594273566}
   - {fileID: 1174830790}
+  - {fileID: 543522785}

@@ -18,6 +18,7 @@ public class GameDataManager : MonoBehaviour
 
         readFile();
         assignNewParticipantId();
+        Debug.Log("Save file at: " + Application.persistentDataPath);
     }
 
     private void assignNewParticipantId()

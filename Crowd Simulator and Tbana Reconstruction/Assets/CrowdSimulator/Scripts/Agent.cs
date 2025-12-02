@@ -224,6 +224,7 @@ public class Agent : MonoBehaviour {
 	{
 		float realSpeed = Vector3.Distance (transform.position, previousPosition) / Mathf.Max(Grid.instance.dt, Time.deltaTime);
 		if (animator != null) {
+
 	
 			if (realSpeed < 0.05f) {
 				animator.speed = 0;
@@ -232,6 +233,16 @@ public class Agent : MonoBehaviour {
 			}
 		}
 	}
+	public void SetIdle(bool isIdle)
+{
+    done = isIdle;
+    
+    if (animator != null)
+    {
+        animator.SetBool("IsIdle", isIdle);
+        animator.speed = 0;
+    }
+}
 
 	/**
 	 * Do a bilinear interpolation of surrounding densities and come up with a density at this agents position.

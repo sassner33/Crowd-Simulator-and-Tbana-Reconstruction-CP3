@@ -1,137 +1,350 @@
 fileFormatVersion: 2
 guid: 6f824adb5bb9d2c44b521d7e56dc876c
-timeCreated: 1491850502
-licenseType: Free
 ModelImporter:
-  serializedVersion: 19
-  fileIDToRecycleName:
-    100000: Bip01 Head
-    100002: Bip01 Head_end
-    100004: Bip01 L Calf
-    100006: Bip01 L Clavicle
-    100008: Bip01 L Finger0
-    100010: Bip01 L Finger01
-    100012: Bip01 L Finger01_end
-    100014: Bip01 L Finger1
-    100016: Bip01 L Finger11
-    100018: Bip01 L Finger11_end
-    100020: Bip01 L Finger2
-    100022: Bip01 L Finger21
-    100024: Bip01 L Finger21_end
-    100026: Bip01 L Foot
-    100028: Bip01 L Forearm
-    100030: Bip01 L ForeTwist1
-    100032: Bip01 L ForeTwist1_end
-    100034: Bip01 L Hand
-    100036: Bip01 L Thigh
-    100038: Bip01 L Toe0
-    100040: Bip01 L Toe0_end
-    100042: Bip01 L UpperArm
-    100044: Bip01 Neck
-    100046: Bip01 Pelvis
-    100048: Bip01 R Calf
-    100050: Bip01 R Clavicle
-    100052: Bip01 R Finger0
-    100054: Bip01 R Finger01
-    100056: Bip01 R Finger01_end
-    100058: Bip01 R Finger1
-    100060: Bip01 R Finger11
-    100062: Bip01 R Finger11_end
-    100064: Bip01 R Finger2
-    100066: Bip01 R Finger21
-    100068: Bip01 R Finger21_end
-    100070: Bip01 R Foot
-    100072: Bip01 R Forearm
-    100074: Bip01 R ForeTwist1
-    100076: Bip01 R ForeTwist1_end
-    100078: Bip01 R Hand
-    100080: Bip01 R Thigh
-    100082: Bip01 R Toe0
-    100084: Bip01 R Toe0_end
-    100086: Bip01 R UpperArm
-    100088: Bip01 Spine
-    100090: Bip01 Spine1
-    100092: //RootNode
-    100094: MilkShape3D Mesh
-    100096: MilkShape3D Skeleton
-    400000: Bip01 Head
-    400002: Bip01 Head_end
-    400004: Bip01 L Calf
-    400006: Bip01 L Clavicle
-    400008: Bip01 L Finger0
-    400010: Bip01 L Finger01
-    400012: Bip01 L Finger01_end
-    400014: Bip01 L Finger1
-    400016: Bip01 L Finger11
-    400018: Bip01 L Finger11_end
-    400020: Bip01 L Finger2
-    400022: Bip01 L Finger21
-    400024: Bip01 L Finger21_end
-    400026: Bip01 L Foot
-    400028: Bip01 L Forearm
-    400030: Bip01 L ForeTwist1
-    400032: Bip01 L ForeTwist1_end
-    400034: Bip01 L Hand
-    400036: Bip01 L Thigh
-    400038: Bip01 L Toe0
-    400040: Bip01 L Toe0_end
-    400042: Bip01 L UpperArm
-    400044: Bip01 Neck
-    400046: Bip01 Pelvis
-    400048: Bip01 R Calf
-    400050: Bip01 R Clavicle
-    400052: Bip01 R Finger0
-    400054: Bip01 R Finger01
-    400056: Bip01 R Finger01_end
-    400058: Bip01 R Finger1
-    400060: Bip01 R Finger11
-    400062: Bip01 R Finger11_end
-    400064: Bip01 R Finger2
-    400066: Bip01 R Finger21
-    400068: Bip01 R Finger21_end
-    400070: Bip01 R Foot
-    400072: Bip01 R Forearm
-    400074: Bip01 R ForeTwist1
-    400076: Bip01 R ForeTwist1_end
-    400078: Bip01 R Hand
-    400080: Bip01 R Thigh
-    400082: Bip01 R Toe0
-    400084: Bip01 R Toe0_end
-    400086: Bip01 R UpperArm
-    400088: Bip01 Spine
-    400090: Bip01 Spine1
-    400092: //RootNode
-    400094: MilkShape3D Mesh
-    400096: MilkShape3D Skeleton
-    4300000: MilkShape3D Mesh
-    7400000: DefaultAction.001
-    7400002: MilkShape3D Skeleton|DefaultAction
-    9500000: //RootNode
-    13700000: MilkShape3D Mesh
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Bip01 Head
+  - first:
+      1: 100002
+    second: Bip01 Head_end
+  - first:
+      1: 100004
+    second: Bip01 L Calf
+  - first:
+      1: 100006
+    second: Bip01 L Clavicle
+  - first:
+      1: 100008
+    second: Bip01 L Finger0
+  - first:
+      1: 100010
+    second: Bip01 L Finger01
+  - first:
+      1: 100012
+    second: Bip01 L Finger01_end
+  - first:
+      1: 100014
+    second: Bip01 L Finger1
+  - first:
+      1: 100016
+    second: Bip01 L Finger11
+  - first:
+      1: 100018
+    second: Bip01 L Finger11_end
+  - first:
+      1: 100020
+    second: Bip01 L Finger2
+  - first:
+      1: 100022
+    second: Bip01 L Finger21
+  - first:
+      1: 100024
+    second: Bip01 L Finger21_end
+  - first:
+      1: 100026
+    second: Bip01 L Foot
+  - first:
+      1: 100028
+    second: Bip01 L Forearm
+  - first:
+      1: 100030
+    second: Bip01 L ForeTwist1
+  - first:
+      1: 100032
+    second: Bip01 L ForeTwist1_end
+  - first:
+      1: 100034
+    second: Bip01 L Hand
+  - first:
+      1: 100036
+    second: Bip01 L Thigh
+  - first:
+      1: 100038
+    second: Bip01 L Toe0
+  - first:
+      1: 100040
+    second: Bip01 L Toe0_end
+  - first:
+      1: 100042
+    second: Bip01 L UpperArm
+  - first:
+      1: 100044
+    second: Bip01 Neck
+  - first:
+      1: 100046
+    second: Bip01 Pelvis
+  - first:
+      1: 100048
+    second: Bip01 R Calf
+  - first:
+      1: 100050
+    second: Bip01 R Clavicle
+  - first:
+      1: 100052
+    second: Bip01 R Finger0
+  - first:
+      1: 100054
+    second: Bip01 R Finger01
+  - first:
+      1: 100056
+    second: Bip01 R Finger01_end
+  - first:
+      1: 100058
+    second: Bip01 R Finger1
+  - first:
+      1: 100060
+    second: Bip01 R Finger11
+  - first:
+      1: 100062
+    second: Bip01 R Finger11_end
+  - first:
+      1: 100064
+    second: Bip01 R Finger2
+  - first:
+      1: 100066
+    second: Bip01 R Finger21
+  - first:
+      1: 100068
+    second: Bip01 R Finger21_end
+  - first:
+      1: 100070
+    second: Bip01 R Foot
+  - first:
+      1: 100072
+    second: Bip01 R Forearm
+  - first:
+      1: 100074
+    second: Bip01 R ForeTwist1
+  - first:
+      1: 100076
+    second: Bip01 R ForeTwist1_end
+  - first:
+      1: 100078
+    second: Bip01 R Hand
+  - first:
+      1: 100080
+    second: Bip01 R Thigh
+  - first:
+      1: 100082
+    second: Bip01 R Toe0
+  - first:
+      1: 100084
+    second: Bip01 R Toe0_end
+  - first:
+      1: 100086
+    second: Bip01 R UpperArm
+  - first:
+      1: 100088
+    second: Bip01 Spine
+  - first:
+      1: 100090
+    second: Bip01 Spine1
+  - first:
+      1: 100092
+    second: //RootNode
+  - first:
+      1: 100094
+    second: MilkShape3D Mesh
+  - first:
+      1: 100096
+    second: MilkShape3D Skeleton
+  - first:
+      4: 400000
+    second: Bip01 Head
+  - first:
+      4: 400002
+    second: Bip01 Head_end
+  - first:
+      4: 400004
+    second: Bip01 L Calf
+  - first:
+      4: 400006
+    second: Bip01 L Clavicle
+  - first:
+      4: 400008
+    second: Bip01 L Finger0
+  - first:
+      4: 400010
+    second: Bip01 L Finger01
+  - first:
+      4: 400012
+    second: Bip01 L Finger01_end
+  - first:
+      4: 400014
+    second: Bip01 L Finger1
+  - first:
+      4: 400016
+    second: Bip01 L Finger11
+  - first:
+      4: 400018
+    second: Bip01 L Finger11_end
+  - first:
+      4: 400020
+    second: Bip01 L Finger2
+  - first:
+      4: 400022
+    second: Bip01 L Finger21
+  - first:
+      4: 400024
+    second: Bip01 L Finger21_end
+  - first:
+      4: 400026
+    second: Bip01 L Foot
+  - first:
+      4: 400028
+    second: Bip01 L Forearm
+  - first:
+      4: 400030
+    second: Bip01 L ForeTwist1
+  - first:
+      4: 400032
+    second: Bip01 L ForeTwist1_end
+  - first:
+      4: 400034
+    second: Bip01 L Hand
+  - first:
+      4: 400036
+    second: Bip01 L Thigh
+  - first:
+      4: 400038
+    second: Bip01 L Toe0
+  - first:
+      4: 400040
+    second: Bip01 L Toe0_end
+  - first:
+      4: 400042
+    second: Bip01 L UpperArm
+  - first:
+      4: 400044
+    second: Bip01 Neck
+  - first:
+      4: 400046
+    second: Bip01 Pelvis
+  - first:
+      4: 400048
+    second: Bip01 R Calf
+  - first:
+      4: 400050
+    second: Bip01 R Clavicle
+  - first:
+      4: 400052
+    second: Bip01 R Finger0
+  - first:
+      4: 400054
+    second: Bip01 R Finger01
+  - first:
+      4: 400056
+    second: Bip01 R Finger01_end
+  - first:
+      4: 400058
+    second: Bip01 R Finger1
+  - first:
+      4: 400060
+    second: Bip01 R Finger11
+  - first:
+      4: 400062
+    second: Bip01 R Finger11_end
+  - first:
+      4: 400064
+    second: Bip01 R Finger2
+  - first:
+      4: 400066
+    second: Bip01 R Finger21
+  - first:
+      4: 400068
+    second: Bip01 R Finger21_end
+  - first:
+      4: 400070
+    second: Bip01 R Foot
+  - first:
+      4: 400072
+    second: Bip01 R Forearm
+  - first:
+      4: 400074
+    second: Bip01 R ForeTwist1
+  - first:
+      4: 400076
+    second: Bip01 R ForeTwist1_end
+  - first:
+      4: 400078
+    second: Bip01 R Hand
+  - first:
+      4: 400080
+    second: Bip01 R Thigh
+  - first:
+      4: 400082
+    second: Bip01 R Toe0
+  - first:
+      4: 400084
+    second: Bip01 R Toe0_end
+  - first:
+      4: 400086
+    second: Bip01 R UpperArm
+  - first:
+      4: 400088
+    second: Bip01 Spine
+  - first:
+      4: 400090
+    second: Bip01 Spine1
+  - first:
+      4: 400092
+    second: //RootNode
+  - first:
+      4: 400094
+    second: MilkShape3D Mesh
+  - first:
+      4: 400096
+    second: MilkShape3D Skeleton
+  - first:
+      43: 4300000
+    second: MilkShape3D Mesh
+  - first:
+      74: 7400000
+    second: DefaultAction.001
+  - first:
+      74: 7400002
+    second: MilkShape3D Skeleton|DefaultAction
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: MilkShape3D Mesh
+  externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
       name: DefaultAction.001
       takeName: DefaultAction.001
+      internalID: 0
       firstFrame: 0
       lastFrame: 34
       wrapMode: 0
@@ -215,7 +428,8 @@ ModelImporter:
           L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L ForeTwist1
         weight: 1
       - path: MilkShape3D Skeleton/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
-          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L ForeTwist1/Bip01 L ForeTwist1_end
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L ForeTwist1/Bip01 L
+          ForeTwist1_end
         weight: 1
       - path: MilkShape3D Skeleton/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
           L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
@@ -266,7 +480,8 @@ ModelImporter:
           R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R ForeTwist1
         weight: 1
       - path: MilkShape3D Skeleton/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
-          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R ForeTwist1/Bip01 R ForeTwist1_end
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R ForeTwist1/Bip01 R
+          ForeTwist1_end
         weight: 1
       - path: MilkShape3D Skeleton/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
           R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
@@ -310,6 +525,7 @@ ModelImporter:
     - serializedVersion: 16
       name: MilkShape3D Skeleton|DefaultAction
       takeName: MilkShape3D Skeleton|DefaultAction
+      internalID: 0
       firstFrame: 0
       lastFrame: 2340
       wrapMode: 0
@@ -393,7 +609,8 @@ ModelImporter:
           L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L ForeTwist1
         weight: 1
       - path: MilkShape3D Skeleton/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
-          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L ForeTwist1/Bip01 L ForeTwist1_end
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L ForeTwist1/Bip01 L
+          ForeTwist1_end
         weight: 1
       - path: MilkShape3D Skeleton/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
           L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
@@ -444,7 +661,8 @@ ModelImporter:
           R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R ForeTwist1
         weight: 1
       - path: MilkShape3D Skeleton/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
-          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R ForeTwist1/Bip01 R ForeTwist1_end
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R ForeTwist1/Bip01 R
+          ForeTwist1_end
         weight: 1
       - path: MilkShape3D Skeleton/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
           R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
@@ -491,25 +709,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 135
     normalImportMode: 1
     tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -519,11 +761,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

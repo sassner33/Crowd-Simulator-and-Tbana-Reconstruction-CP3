@@ -11,6 +11,8 @@ TagManager:
   - girl
   - PostProcessing
   - Obstacle
+  - Actor
+  - Caregiver
   layers:
   - Default
   - TransparentFX

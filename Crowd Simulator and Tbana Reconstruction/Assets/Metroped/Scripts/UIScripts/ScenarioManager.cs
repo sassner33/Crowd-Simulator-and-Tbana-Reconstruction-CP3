@@ -48,8 +48,8 @@ public class ScenarioPicker : MonoBehaviour
     };
     private TeleportCoordinates VRteleportCoordinates = new TeleportCoordinates
     {
-        position = new Vector3(-40.53f, 0f, -3.465f),
-        rotation = new Vector3(0f, 90f, 0f)
+        position = new Vector3(-41.53f, -.2f, -1.365f),
+        rotation = new Vector3(0f, -130f, 0f)
     };
 
     /*
@@ -437,7 +437,7 @@ public class ScenarioPicker : MonoBehaviour
 
     private IEnumerator TimerCoroutine()
     {
-        yield return new WaitForSeconds(12);
+        yield return new WaitForSeconds(6);
         if (RatingMenu != null)
         {
             RatingMenu.SetActive(true);

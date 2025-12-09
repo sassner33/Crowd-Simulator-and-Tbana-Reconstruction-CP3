@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Metroped/FinalScenePVK.unity
+    guid: 0877ab9563854ab4da9a6bf6afd1a888
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 79ad84d9239b2b64bbe3ec8674a0170c, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 05798145b9762694fb52a62d46c7eacb, type: 2}

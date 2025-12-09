@@ -738,7 +738,13 @@ PlayerSettings:
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Build: 0
+    Game Performance: 0
+    Legacy Analytics: 0
+    Purchasing: 0
+    UDP: 0
     UNet: 1
+    Unity Ads: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -758,11 +764,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: b1d021b8-db92-43c2-96a0-004ee42eb5ad
+  cloudProjectId: c81a764c-e8f5-4955-ad2f-12e2d6f0e704
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Metroped-Main-PVK
-  organizationId: julianley
+  organizationId: bovika
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

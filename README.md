@@ -1,6 +1,6 @@
 # Welcome to group CP3's project for DM2350 course at KTH!
 ## Our project is about the perceived safety in T-bana environment!
-![image](https://github.com/user-attachments/assets/e0cd43e8-44e3-449a-8142-bb1b5b03dfd9)
+![image](https://cdn.discordapp.com/attachments/1438154818995880022/1458421666945437767/Xnip2026-01-07_02-14-20.jpg?ex=6966d4c5&is=69658345&hm=d09dda354804bb093f028a5eda08de33e656431701e9edb5509ca6d21548bd9e&)
 
 # YouTube link: https://youtu.be/A3jLR6CQvFM?si=8WBdqlV35cOP4JSS 
 

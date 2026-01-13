@@ -1,8 +1,8 @@
-# Welcome to the crowd simulator! 👩‍💻
+# Welcome to group CP3's project for DM2350 course at KTH!
+## Our project is about the perceived safety in T-bana environment!
 ![image](https://github.com/user-attachments/assets/e0cd43e8-44e3-449a-8142-bb1b5b03dfd9)
 
-👩‍💻 Please fork this repo if you plan to create a project based on this version.
-
+# YouTube link: https://youtu.be/A3jLR6CQvFM?si=8WBdqlV35cOP4JSS 
 
 
 ## Acknowledgements

@@ -18,10 +18,10 @@ Forked from: https://github.com/KTH-High-Density-Crowd-Simulator/Crowd-Simulator
 - [Metroped Interactive](https://github.com/JulianLey/MetropedInteractive)
 
 ### Jenna Smulter
-- Improvements and bug fixes to crowd simulator. Owner of this repo.
+- Improvements and bug fixes to crowd simulator. Owner of the forked repo.
 
 ### Anton Porsbjer
-- Improvements and bug fixes to crowd simulator. Owner of this repo.
+- Improvements and bug fixes to crowd simulator. Owner of the forked repo.
 
 ## Screenshots
 
